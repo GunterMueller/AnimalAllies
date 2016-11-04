@@ -1,0 +1,68 @@
+\beamer@endinputifotherversion {3.36pt}
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\slideentry {0}{0}{2}{2/2}{}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\slideentry {0}{0}{3}{3/3}{}{0}}
+\headcommand {\beamer@framepages {3}{3}}
+\headcommand {\sectionentry {1}{Intro to Line Following}{4}{Intro to Line Following}{0}}
+\headcommand {\beamer@sectionpages {1}{3}}
+\headcommand {\beamer@subsectionpages {1}{3}}
+\headcommand {\beamer@subsectionentry {0}{1}{1}{4}{Basic concepts}}\headcommand {\beamer@subsectionpages {4}{3}}
+\headcommand {\beamer@subsubsectionentry {0}{1}{1}{1}{4}{Calibrate the ligth sensor}}
+\headcommand {\beamer@subsubsectionentry {0}{1}{1}{2}{4}{Display text and data on the Brick}}
+\headcommand {\beamer@subsectionentry {0}{1}{2}{4}{Display the Calibration( verify calibration worked as intended}}\headcommand {\beamer@subsectionpages {4}{3}}
+\headcommand {\beamer@subsectionentry {0}{1}{3}{4}{Line Following Techniques (switching and proportional}}\headcommand {\beamer@subsectionpages {4}{3}}
+\headcommand {\beamer@subsubsectionentry {0}{1}{3}{1}{4}{Switches}}
+\headcommand {\beamer@subsubsectionentry {0}{1}{3}{2}{4}{Loops}}
+\headcommand {\beamer@subsectionentry {0}{1}{4}{4}{Ultrasonic sensor}}\headcommand {\beamer@subsectionpages {4}{3}}
+\headcommand {\beamer@subsubsectionentry {0}{1}{4}{1}{4}{ Measure versus control program flow(i.e. drive until Ultrasonic sensor see something within specified range) }}
+\headcommand {\slideentry {1}{4}{1}{4/4}{Ultrasonic sensor}{0}}
+\headcommand {\beamer@framepages {4}{4}}
+\headcommand {\slideentry {1}{4}{2}{5/5}{Ultrasonic sensor}{0}}
+\headcommand {\beamer@framepages {5}{5}}
+\headcommand {\slideentry {1}{4}{3}{6/6}{Ultrasonic sensor}{0}}
+\headcommand {\beamer@framepages {6}{6}}
+\headcommand {\slideentry {1}{4}{4}{7/7}{Ultrasonic sensor}{0}}
+\headcommand {\beamer@framepages {7}{7}}
+\headcommand {\slideentry {1}{4}{5}{8/8}{Ultrasonic sensor}{0}}
+\headcommand {\beamer@framepages {8}{8}}
+\headcommand {\slideentry {1}{4}{6}{9/9}{Ultrasonic sensor}{0}}
+\headcommand {\beamer@framepages {9}{9}}
+\headcommand {\slideentry {1}{4}{7}{10/10}{Ultrasonic sensor}{0}}
+\headcommand {\beamer@framepages {10}{10}}
+\headcommand {\slideentry {1}{4}{8}{11/11}{Ultrasonic sensor}{0}}
+\headcommand {\beamer@framepages {11}{11}}
+\headcommand {\slideentry {1}{4}{9}{12/12}{Ultrasonic sensor}{0}}
+\headcommand {\beamer@framepages {12}{12}}
+\headcommand {\slideentry {1}{4}{10}{13/13}{Ultrasonic sensor}{0}}
+\headcommand {\beamer@framepages {13}{13}}
+\headcommand {\slideentry {1}{4}{11}{14/14}{Ultrasonic sensor}{0}}
+\headcommand {\beamer@framepages {14}{14}}
+\headcommand {\slideentry {1}{4}{12}{15/15}{Ultrasonic sensor}{0}}
+\headcommand {\beamer@framepages {15}{15}}
+\headcommand {\slideentry {1}{4}{13}{16/16}{Ultrasonic sensor}{0}}
+\headcommand {\beamer@framepages {16}{16}}
+\headcommand {\slideentry {1}{4}{14}{17/17}{Ultrasonic sensor}{0}}
+\headcommand {\beamer@framepages {17}{17}}
+\headcommand {\slideentry {1}{4}{15}{18/18}{Ultrasonic sensor}{0}}
+\headcommand {\beamer@framepages {18}{18}}
+\headcommand {\slideentry {1}{4}{16}{19/19}{Ultrasonic sensor}{0}}
+\headcommand {\beamer@framepages {19}{19}}
+\headcommand {\slideentry {1}{4}{17}{20/20}{Ultrasonic sensor}{0}}
+\headcommand {\beamer@framepages {20}{20}}
+\headcommand {\slideentry {1}{4}{18}{21/21}{Ultrasonic sensor}{0}}
+\headcommand {\beamer@framepages {21}{21}}
+\headcommand {\slideentry {1}{4}{19}{22/22}{Ultrasonic sensor}{0}}
+\headcommand {\beamer@framepages {22}{22}}
+\headcommand {\slideentry {1}{4}{20}{23/23}{Ultrasonic sensor}{0}}
+\headcommand {\beamer@framepages {23}{23}}
+\headcommand {\slideentry {1}{4}{21}{24/24}{Ultrasonic sensor}{0}}
+\headcommand {\beamer@framepages {24}{24}}
+\headcommand {\slideentry {1}{4}{22}{25/25}{Ultrasonic sensor}{0}}
+\headcommand {\beamer@framepages {25}{25}}
+\headcommand {\beamer@partpages {1}{25}}
+\headcommand {\beamer@subsectionpages {4}{25}}
+\headcommand {\beamer@sectionpages {4}{25}}
+\headcommand {\beamer@documentpages {25}}
+\headcommand {\def \inserttotalframenumber {25}}
